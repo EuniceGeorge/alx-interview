@@ -1,3 +1,7 @@
+"""
+A pascal triangle that returns the
+list of integers
+"""
 def pascal_triangle(n):
     triangle = [[] for i in range(n)]
 
