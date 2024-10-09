@@ -6,6 +6,9 @@ list of integers
 
 
 def pascal_triangle(n):
+    """
+    pascal triangle
+    """
     triangle = [[] for i in range(n)]
 
     for i in range(n):
